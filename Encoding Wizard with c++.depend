@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1738103597 source:d:\hello\encoding wizard with c++\main.cpp
+	<iostream>
+	<locale>
+	<codecvt>
+	<string>
+	<vector>
+
